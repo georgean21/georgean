@@ -2,7 +2,9 @@
 
 ## Specifications
 Programming: C/C++, Java, Go;
+
 Stack: PostgreSQL, Docker;
+
 Used: Grafana, Prometheus, bash, unit-tests;
 
 
